@@ -9,14 +9,16 @@
 #Title: Star WarsGPT
 #Goals: Have a working AI focused on Star Wars
 '''
-Using the OpenAI API, attempt to train the model on data from wookiepedia
+Using an llm(large language model) created from python, attempt to train the model on data from wookiepedia
 '''
 
 
 from openai import OpenAI
+import pydantic
+from pydantic import BaseModel
 import os
 
-client = OpenAI
+client = OpenAI()
 completion = client.completions.create(model='curie')
 print(completion.choices[0].text)
 print(dict(completion).get('usage'))

@@ -4,14 +4,14 @@ Simple overview of use/purpose.
 
 ## Description
 
-Obtain the 
+Create an llm from pyhon API and train the model on the data of Wookiepedia
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Downloading libraries necessary to create the llm
+Data(text) of Wookiepedia
 
 ### Installing
 
@@ -37,8 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Aidan DeVera
 
 ## Version History
 
@@ -55,8 +54,8 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+OpenAI[https://platform.openai.com/docs/quickstart?context=python]
+Python llm libraries[#https://pypi.org/project/llm]
+Youtube[#https://www.youtube.com/watch?v=q5HiD5PNuck]
+Github[#https://github.com/openai/openai-python/discussions/742]
+Youtube[https://www.youtube.com/watch?v=UU1WVnMk4E8]
