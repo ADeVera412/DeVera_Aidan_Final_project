@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-Create an llm from pyhon API and train the model on the data of Wookiepedia
+Create an llm from pyhon API and train the model on the text of Wookiepedia
 
 ## Getting Started
 
@@ -59,3 +59,5 @@ Python llm libraries[#https://pypi.org/project/llm]
 Youtube[#https://www.youtube.com/watch?v=q5HiD5PNuck]
 Github[#https://github.com/openai/openai-python/discussions/742]
 Youtube[https://www.youtube.com/watch?v=UU1WVnMk4E8]
+LLM[https://llm.datasette.io/en/stable/python-api.html]
+Medium[https://medium.com/@smitkumbhani080/how-to-train-a-pre-trained-large-language-model-llm-in-python-using-openai-easy-27680c92fc3d]

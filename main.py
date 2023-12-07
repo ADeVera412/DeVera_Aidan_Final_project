@@ -12,20 +12,19 @@
 Using an llm(large language model) created from python, attempt to train the model on data from wookiepedia
 '''
 
-
-from openai import OpenAI
-import pydantic
-from pydantic import BaseModel
-import os
-
-client = OpenAI()
-completion = client.completions.create(model='curie')
-print(completion.choices[0].text)
-print(dict(completion).get('usage'))
-print(completion.model_dump_json(indent=2))
-  #os.environ['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'],  # this is also the default, it can be omitted
+import openai
+import llm
+from Data import*
+ 
 
 
+model = llm.get_model("gpt-3.5-turbo")
+model.key = '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'
+#training_data 
+response = model.prompt("What was the cold war?")
+print(response.text())
+
+ 
 
 
 
