@@ -4,14 +4,14 @@ Simple overview of use/purpose.
 
 ## Description
 
-Create an llm from pyhon API and train the model on the text of Wookiepedia
+Create an llm from pyhon API and create a user interface for the chatbot.
 
 ## Getting Started
 
 ### Dependencies
 
 Downloading libraries necessary to create the llm
-Data(text) of Wookiepedia
+
 
 ### Installing
 

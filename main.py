@@ -13,15 +13,15 @@ Using an llm(large language model) created from python, attempt to train the mod
 '''
 
 import openai
+import pygame
 import llm
-from Data import*
+from UI import*
  
 
 
 model = llm.get_model("gpt-3.5-turbo")
-model.key = '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'
-#training_data 
-response = model.prompt("What was the cold war?")
+model.key = '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'
+response = model.prompt("What was the civil war?")
 print(response.text())
 
  
