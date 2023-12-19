@@ -6,7 +6,7 @@ WIDTH = 800
 HEIGHT = 600
 
 pg.init()
-openai.api_key = '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' 
+openai.api_key = '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' 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 

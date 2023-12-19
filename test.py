@@ -17,7 +17,7 @@ from UI import*
 
 
 model = llm.get_model("gpt-3.5-turbo")
-model.key = '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'
+model.key = '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'
 response = model.prompt("What was the civil war?")
 print(response.text())
 
