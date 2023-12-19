@@ -12,7 +12,7 @@ Using pygame, create an interface for the chatbot
 import openai
 import pygame
 import llm
-from UI import*
+from main import*
  
 
 
