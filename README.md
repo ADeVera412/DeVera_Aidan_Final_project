@@ -4,13 +4,17 @@ Simple overview of use/purpose.
 
 ## Description
 
-Create an llm from pyhon API and create a user interface for the chatbot.
+Create an llm from pyhon API and create a user interface for the chatbot
+
 
 ## Getting Started
+Create an API key from OpenAI's website
+In VSCode, test the API key to see if OpenAI
 
 ### Dependencies
 
-Downloading libraries necessary to create the llm
+Creating an API key from OpenAI's website
+Install pygame
 
 
 ### Installing
@@ -54,9 +58,12 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
+Chris Cozort
 OpenAI[https://platform.openai.com/docs/quickstart?context=python]
+ChatGPT[https://chat.openai.com/]
 Python llm libraries[#https://pypi.org/project/llm]
 Youtube[#https://www.youtube.com/watch?v=q5HiD5PNuck]
+Youtube[https://www.youtube.com/watch?v=YDP1Hk7uZFA]
 Github[#https://github.com/openai/openai-python/discussions/742]
 Youtube[https://www.youtube.com/watch?v=UU1WVnMk4E8]
 LLM[https://llm.datasette.io/en/stable/python-api.html]
